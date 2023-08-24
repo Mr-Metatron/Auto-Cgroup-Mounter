@@ -1,0 +1,6 @@
+id=ACgM
+name=Auto Cgroup Mounter
+version=1.0
+versionCode=1
+author=Metatron Lei
+description=Mount Cgroup automatically while startup.
